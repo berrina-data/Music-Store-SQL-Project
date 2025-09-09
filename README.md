@@ -35,7 +35,8 @@ The goal was to solve business questions using SQL queries involving joins, aggr
 
 
 ## 📸 Screenshots
-![Queries 1–3](./q1_q2_q3_queries.png)  
+![Queries 1–3](<img width="1919" height="1079" alt="q1_q2_q3_queries" src="https://github.com/user-attachments/assets/ac6029ff-7298-42a2-b525-815b5b268f6f" />
+)  
 ![Queries 4–5](./q4_q5_queries.png)  
 ![Queries 6–7](./q6_q7_queries.png)  
 
