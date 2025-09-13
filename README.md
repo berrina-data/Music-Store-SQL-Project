@@ -29,7 +29,7 @@ The goal was to solve business questions using SQL queries involving joins, aggr
 
 ## 📂 Files in this Repository
 - `music_store_project.sql` → contains all SQL queries  
-- https://github.com/berrina-data/Music-Store-SQL-Project/blob/main/q1_q2_q3_queries.png, `./q4_q5_queries.png`, `./q6_q7_queries.png` → screenshots of queries in pgAdmin  
+- https://github.com/berrina-data/Music-Store-SQL-Project/blob/main/q1_q2_q3_queries.png, https://github.com/berrina-data/Music-Store-SQL-Project/blob/main/q4_q5_queries.png, `./q6_q7_queries.png` → screenshots of queries in pgAdmin  
 
 ---
 
